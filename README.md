@@ -3,6 +3,8 @@
 
 
 
+<img src="image.png" alt="python-weather"/><br />
+
 
 
 
